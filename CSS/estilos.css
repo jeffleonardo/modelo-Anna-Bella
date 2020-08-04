@@ -1,0 +1,40 @@
+body{
+	background-color: #D8D8D8;
+}
+
+#principal{
+	width: 900px;
+}
+
+#menu{
+	background-color: #c5c5b2;
+	padding: 18px;
+}
+
+#conteudo{
+	background-color: white;
+	padding: 10px;
+}
+
+.sobre{
+	color:#6E6E6E; 
+}
+
+a{
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+
+}
+
+.rodape{
+	text-align: center;
+}
+
+.img-campanha{
+	border: 10px solid #c5c5b2;
+}
+
+
+
